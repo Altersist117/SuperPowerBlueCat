@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.leyou.config.JdbcProperties",
+      "name": "jdbc",
+      "type": "com.leyou.config.JdbcProperties"
+    }
+  ],
+  "properties": []
+}
